@@ -1,4 +1,9 @@
-### Hi there 👋
+# 0xHenryMC - Short details
+Henry133, also known as 0xHenryMC or 0xSnowflakeXD is an advanced programmer that write code, fixes bug. Also a good Minecraft player with PvP-ing skillg and his speed in lots of game.
+# Programming Experience
+A quick details about my skills: Self-trained, highly-experienced, able to detect and patch vulnerabilities/bugs within a second!
+## Self Training Progress
+
 
 <!--
 **0xSnowflakeXD/0xSnowflakeXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
