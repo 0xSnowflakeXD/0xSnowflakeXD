@@ -11,7 +11,12 @@ I found it really good, (better than C and C++, as im feeling it in those days)
 
 I started working on simple and early HTML/CSS projects, then a dynamic website with JavaScript finally form
 
-After that, i remind myself my actual goal that im being there: Creating a bot  to fight and beat off RBot.
+After that, i remind myself my actual goal that im being there: Creating a bot to fight and beat off RBot.
+### TModeration Bot story
+The begin of the bot. I was really trusted 'kiwi birb', and im really regretted later and start worked indepedentment.
+Begins, i started working on the bot core that i "borrow" from RBot, which is really bad i swear. 'kiwi birb' being mean to me all the time and though i cant learn anything for myself. Even though she helped me and not too mean to me, but though, her code is *terrible* and too complex for a simple-ish like me. I have to rollback to my own code because it really work better than her. She tried to crack into smallest vulnerability of both this bot and RyzanX (will be written later).
+
+The bot that i coded (not quite, since the code is from kiwi birb) have been fully rewritten in not a long time. Using 'switch-case' like other bots, it 
 <!--
 **0xSnowflakeXD/0xSnowflakeXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
