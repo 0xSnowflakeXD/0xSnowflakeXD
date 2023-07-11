@@ -1,9 +1,9 @@
 # Informations
-Name: James D. Henry
-Age: 20
-Birth: 2/24/2003
-Born in: Washington D.C.
-Living in: Washington D.C.
+Name: James D. Henry<br>
+Age: 20<br>
+Birth: 2/24/2003<br>
+Born in: Washington D.C.<br>
+Living in: Washington D.C.<br>
 # 0xHenryMC - Short details
 Henry133, also known as 0xHenryMC or 0xSnowflakeXD is an advanced programmer that write code, fixes bug. Also a good Minecraft player with PvP-ing skillg and his speed in lots of game.
 # Programming Experience
