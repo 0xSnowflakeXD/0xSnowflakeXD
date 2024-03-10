@@ -8,6 +8,6 @@ Language:<br>
 
 # Working on...
 Here's my two projects that im struggling on:<br>
-[TCP-Toolkit](https://github.com/0xSnowflakeXD/tcp-toolkit)<br>
-TCP-Toolkit Authenticity Checker: soon™️<br>
-User Friendly TCP-Client: soon™️
+- [TCP-Toolkit](https://github.com/0xSnowflakeXD/tcp-toolkit)<br>
+- TCP-Toolkit Authenticity Checker: soon™️<br>
+- User Friendly TCP-Client: soon™️
