@@ -6,7 +6,7 @@ ThunderStrike, often called NullifiedTheDev<br>
 Language:<br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,discordjs,vscode)
 
-![](https://github-readme-stats.vercel.app/api?username=0xSnowflakeXD&show=reviews&show_icons=true&theme=tokyonight&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=0xSnowflakeXD&hide=prs&show_icons=true&theme=tokyonight&border_radius=10)
 
 # Working on...
 Here's my two projects that im struggling on:<br>
