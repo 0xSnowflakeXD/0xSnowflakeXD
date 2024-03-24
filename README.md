@@ -8,7 +8,8 @@ ThunderStrike, often called NullifiedTheDev<br>
 - Socket programming (Not WEBSOCKET!)
 - Create types of data for your works
 - Make a simple Discord bot
-- Exploiting your own thing
+- Find exploits for botting with your chat software.
+- Mess with everything@
 # I love to:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,discordjs,vscode)
 
