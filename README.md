@@ -11,7 +11,7 @@ ThunderStrike, often called NullifiedTheDev<br>
 - Find exploits for botting with your chat software.
 - Mess with everything@
 # I love to:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,nodejs,vscode)
 
 And whatever seems nice to me!
 # Working on...
